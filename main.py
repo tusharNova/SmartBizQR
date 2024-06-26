@@ -14,6 +14,7 @@ URL:https://www.example.com
 X-UPI-ID:your.upi.id@example
 X-INSTAGRAM:https://www.instagram.com/yourprofile
 X-FACEBOOK:https://www.facebook.com/yourprofile
+GEO:21.89674;79.525445
 END:VCARD"""
 
 
